@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html dir="ltr" lang="zh-Hans" prefix="og: https://ogp.me/ns#">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="profile" href="http://gmpg.org/xfn/11">
+
 <title>2024年中国大陆如何注册观看Netflix</title>
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	
